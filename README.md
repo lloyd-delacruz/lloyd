@@ -6,7 +6,12 @@ I’m **Lloyd**, a **Healthcare Data Analytics Enthusiast** with a strong backgr
 
 ## 🌟 About Me
 
-- 🎓 **Education**: BSc in Industrial Enginering | Bootcamp Data Analytics certificate| Onging Master’s in Data Analytics | Diploma in Rehabilitation Assistance  
+- 🎓 **Education**: ### 🎓
+- **Degree in Engineering**  
+- **BrainStation IO Data Analyst Course Graduate**  
+- **Google Data Analytics Certification**  
+- Currently pursuing a **Master's in Data Science**
+  
 - 💼 **Experience**: 8+ years in **healthcare operations** and **data-driven solutions**  
 - 🛠️ **Skills**: Python, R, SQL, Excel, Tableau  
 - 🏥 **Specialization**: Analytics in Healthcare and pharmaceutical settings  
@@ -22,17 +27,17 @@ I’m **Lloyd**, a **Healthcare Data Analytics Enthusiast** with a strong backgr
 - **Highlights**: Streamlined resource management, reduced costs, and improved patient care delivery.  
 - **Repo**: [Hospital Wheelchair Inventory Management](#)  
 
-### 🫀 **Cardiac Unit Admission Rate Analysis**
+### 🫀 **Analyzing British Airways Customer Reviewss**
 - **Description**: Analyzed admission rates and trends for the cardiac unit at Vancouver General Hospital to inform capacity planning and resource allocation.  
 - **Tools**: Tableau, Python  
 - **Highlights**: Identified key patterns to optimize staffing and improve patient outcomes.  
-- **Repo**: [Cardiac Unit Admission Analysis](#)  
+- **Repo**: [(https://github.com/lloyd-delacruz/SQL-Tableau)](#)  
 
-### 📉 **AWS Revenue Forecasting**
+### 📉 **Cancer Incidence in Canada**
 - **Description**: Predicted quarterly revenue for AWS using regression models.  
 - **Tools**: Python (Jupyter Notebook), Excel  
 - **Highlights**: Leveraged statistical modeling for accurate revenue forecasting.  
-- **Repo**: [AWS Revenue Forecast](#)  
+- **Repo**: [https://github.com/lloyd-delacruz/cancer_incidence_canada](#)  
 
 ### 🏥 **Rehabilitation Assistant Proposal**
 - **Description**: Spearheaded a proposal to re-evaluate the classification and wage grid for Rehabilitation Assistants at Vancouver Coastal Health.  
